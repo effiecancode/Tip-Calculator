@@ -1,2 +1,2 @@
 # Tip-Calculator
-Get a Tip
+You Deserve a Tip😊
