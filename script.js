@@ -1,3 +1,5 @@
+'use strict'
+
 document.addEventListener("DOMContentLoaded", function () {
     const calculateBtn = document.getElementById("calculateBtn");
     const resultDiv = document.getElementById("result");

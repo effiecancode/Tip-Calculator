@@ -6,7 +6,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: linear-gradient(#3cb25c, #ffff);
+    background: linear-gradient(#7af19a, #ffff);
 }
 
 .calculator {
@@ -16,7 +16,7 @@ body {
     box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
     text-align: center;
     min-height: 60px;
-    background: linear-gradient(#f7f9f7, #55f37f);
+    background: linear-gradient(#f7f9f7, #93f4ad);
 }
 
 h1 {
